@@ -1,0 +1,12 @@
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/portafoleo
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/icudtl.dat
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/flutter_assets/assets/img/dash.png
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/media/mario/Personal/Flutter/Personales/portafoleo/build/linux/x64/debug/bundle/data/flutter_assets/version.json

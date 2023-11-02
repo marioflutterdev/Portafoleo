@@ -1,0 +1,4 @@
+#Wed Nov 01 21:04:09 COT 2023
+base.0=/media/mario/Personal/Flutter/Personales/portafoleo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
